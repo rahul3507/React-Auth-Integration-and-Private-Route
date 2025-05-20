@@ -43,7 +43,7 @@ function Register() {
                         <input type="password" required name='password' className="input" placeholder="Password" />
 
                         <div><a className="link link-hover">Forgot password?</a></div>
-                        <button className="btn btn-neutral mt-4">Login</button>
+                        <button className="btn btn-neutral mt-4">Sign up</button>
                     </form>
                     <p>Already have an account? Please <Link to="/login">
                         <button className='btn btn-link'>Login</button>
